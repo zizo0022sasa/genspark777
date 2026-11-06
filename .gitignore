@@ -1,0 +1,7 @@
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.env
+.env.*
